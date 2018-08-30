@@ -195,6 +195,7 @@ heuristic_models <- rbind(heuristic_models, umod)
 rm(umod_init, umod, ulc, utc)
 
 
+###### Working area.  Working on shapley value solution (i.e. google analytics data-driven model) & MCMC
 
 ####################################### What needs to happen in order to create our own shapley value solution
 
